@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/etc/csh'
+let g:netrw_dirhist_2='/home/peter/test'
+let g:netrw_dirhist_3='/home/peter/code1/uaserver/apisua/pki/certs'
+let g:netrw_dirhist_4='/home/peter/test'
